@@ -1,0 +1,143 @@
+
+.form-profile1{
+ margin:0 auto;
+  margin-top:100px;
+  text-align:center;
+  justify-content:center;
+
+}
+
+.deletep{
+    color:#1F233E;
+    background: #2BE7E8;
+    width: 320px;
+    height: 40px;
+    padding: 5px 10px;
+    font-size:18px;
+  border-radius: 5px;
+  
+  justify-content: center;
+  margin-top:30px;
+  cursor:pointer;
+  border: 1px solid #B0C3FD
+  }
+  
+  .deletep:hover{
+    background: #12b8b8;
+    box-shadow: 0 0 10px #2BE7E8, 0 0 25px #001eff, 0 0 50px #2BE7E8;
+  }
+
+  .deletep:focus{
+    background: #12b8b8;
+    box-shadow: 0 0 10px #2BE7E8, 0 0 25px #001eff, 0 0 50px #2BE7E8;
+  }
+
+.form-profile{
+    justify-content:center;
+    text-align:center;
+    margin-top:200px;
+    width:95%;
+    min-width:370px;
+    height: 500px;
+    background: rgba(255, 255, 255, 0.45);
+    backdrop-filter: blur( 0.5px );
+    -webkit-backdrop-filter: blur( 0.5px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );    
+}
+.button-edit{
+  border:none;
+  background:none;
+}
+.checkout{
+  margin:0 auto;
+  width:90%;
+  max-width:600px;
+  min-width: 370px;
+  text-align: center;
+  border-radius: 10px;
+  border: 1px solid #c1c1c1;
+  
+  padding:20px;
+  background: rgba(255, 255, 255, 0.612);
+  backdrop-filter: blur( 0.5px );
+  -webkit-backdrop-filter: blur( 0.5px );
+  }
+
+  
+  .box5{
+    display:flex;
+    gap:20px;
+    text-align:center;
+    justify-content:center;
+   
+  }
+.genp1{
+  align-items:center;
+  text-align:center;
+  justify-content:center;
+  margin-top:50px;
+}
+  .gender{
+    color:#1F233E;
+  }
+
+  .form-profilem{
+margin-top:-50px;
+margin-bottom:30px;
+  }
+  
+  .inputworkp{
+    color:#1F233E;
+    margin-left:-50px; 
+    margin-top:-45px; 
+    z-index:2; 
+    background:#fff; 
+    width:50px;
+   }
+
+  .genp{
+    align-items:center;
+text-align:center;
+justify-content:center;
+margin-top:80px;
+  }
+  .checkout1{
+      display:flex;
+      justify-content:space-between;
+      color:#2F2E34;
+  }
+
+  .checkout1 >h2{
+    color:#2F2E34;
+  }
+  
+  .checkout2{
+      display:flex;
+      border-bottom: 1px solid #c1c1c1;
+      margin-top:30px;
+      justify-content:space-between;
+     
+  }
+  
+  .checkout2 > h5{
+      color:#2F2E34;
+  }
+  
+  .checkout3{
+      display:flex;
+      border-bottom: 1px solid #c1c1c1;
+      margin-top:30px;
+      justify-content:space-between;
+     
+  }
+  
+  .checkout3 > h5{
+      color:#2F2E34;
+  
+  }
+
+@media (max-width: 500px) {
+
+
+}

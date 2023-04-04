@@ -1,0 +1,39 @@
+
+.button-nav1{
+    background:none;
+    border:none;
+    font-size:24px;
+    color:#fff; 
+}
+
+.nav2{
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    border-bottom-left-radius:40px;
+    border-bottom-right-radius: 40px; 
+    border-top:none;
+    background:#2E3562;
+    height:70px; 
+    color:#fff;
+    }
+
+.button-nav{
+    background:linear-gradient(0deg, rgba(235,235,235,1) 0%, rgba(255,255,255,1) 100%); 
+    margin-bottom:-8px;
+}
+
+.icons-nav{
+    font-size:24px;
+    color:#252525;  
+}
+
+.icons-nav2{
+    font-size:24px;
+    color:#252525;  
+}
+
+.workouts{
+   font-size:8px; 
+   margin-top:-7px;
+   color:#252525;
+   background:none;
+}

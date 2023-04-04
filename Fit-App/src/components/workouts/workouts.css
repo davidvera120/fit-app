@@ -1,0 +1,122 @@
+
+.background-work{
+    background-color:#1F233E;
+    width:100%;
+    min-height:100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.img-work{
+    height:100px; 
+    margin-left:-10px;
+}
+
+.routes-work{
+   margin-top:100px;
+   margin-left:1rem;
+}
+
+.span-work{
+ 
+    text-decoration:none;
+}
+
+.icon-work{
+   font-size:40px; 
+   font-weight:200; 
+   color:#2BE7E8;
+}
+
+.current{
+   color:#fff;
+   text-decoration: none;
+}
+
+.current2{
+    color:#2BE7E8;
+    text-decoration: none;
+}
+
+.workouts-list{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap:30px; 
+    flex-wrap:wrap;
+    margin-top:40px; 
+    margin-bottom:80px;
+}
+
+.workouts-items{
+    position:relative;
+    justify-content: center;
+    text-align: center;
+    top:33%;
+    
+}
+
+.custom-btn2 {
+     width: 390px;
+    height: 100px;
+    color:  #fff;
+    border-radius: 5px;
+   display:flex;
+   flex-direction:row;
+  font-size:20px;
+    background: #e0e0e0;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    
+    
+
+    box-shadow: inset 2px 2px 2px 0px rgba(255,255,255,.5),
+      7px 7px 20px 0px rgba(0,0,0,.1),
+      4px 4px 5px 0px rgba(0,0,0,.1);
+    outline: none;
+   
+   }
+   
+   .btn-2 {
+    background:#2E3562;
+  
+    border: none;
+   }
+   
+   .btn-2:hover {
+    background: #a4a4a4;
+    background: linear-gradient(0deg,   #a4a4a4 0%,  #e1dddd 100%);
+    color:black;
+   }
+
+   @media (max-width: 500px) {
+    .custom-btn2 {
+        width: 355px;
+       height: 100px;
+       color:  #fff;
+       border-radius: 5px;
+      display:flex;
+      flex-direction:row;
+     font-size:20px;
+       background: #e0e0e0;
+       cursor: pointer;
+       transition: all 0.3s ease;
+       
+       box-shadow: inset 2px 2px 2px 0px rgba(255,255,255,.5),
+         7px 7px 20px 0px rgba(0,0,0,.1),
+         4px 4px 5px 0px rgba(0,0,0,.1);
+       outline: none;
+      }
+
+      .btn-2 {
+        background:#2E3562;
+        border: none;
+       }
+       
+       .btn-2:hover {
+        background: #a4a4a4;
+        background: linear-gradient(0deg,   #a4a4a4 0%,  #e1dddd 100%);
+        color:#252525;
+       }
+}

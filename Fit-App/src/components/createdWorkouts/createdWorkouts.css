@@ -1,0 +1,158 @@
+.background{
+    background-color:#1F233E;
+    width:100%;
+    min-height:100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.btnClose{
+    border:none;
+    background:none;
+    color:#fff;  
+}
+textarea{
+
+    border:1.5px solid rgb(0,70,148);
+    border-radius:5px;
+    box-shadow: 1px 1px 2px 1px rgba( 255, 255, 255, 0.1 );
+    outline: none;
+    width:300px;
+    background-color:#1F233E;
+    font-weight: 300;
+    position:absolute;
+    padding-top: 10px;
+}
+  
+textarea::placeholder {
+    text-align: center;
+    padding-top: 20px;
+}  
+
+textarea:focus{ 
+    border-color:#2BE7E8;    
+}
+    
+textarea:placeholder-shown{ 
+    font-size: 15px;
+    font-weight: 350;
+}
+
+.inputwork{
+    color:#fff;
+    margin-left:-200px; 
+    margin-top:-45px; 
+    z-index:2;  
+    background:#1F233E;
+    width:50px;
+   }
+  
+    
+  .inputwork2{
+    color:#fff;
+    margin-left:-180px; 
+    margin-top:-45px; 
+    z-index:2;  
+    background:#1F233E;
+    width:75px;
+   }
+  
+   .inputwork3{
+    color:#fff;
+   margin-left:-170px; 
+    margin-top:-95px; 
+    z-index:2;  
+    background:#1F233E;
+    width:87px;
+   }
+   
+.img-work2{
+    height:100px; 
+   
+}
+
+.routes-work{
+   margin-top:100px;
+   margin-left:1rem;
+}
+
+.span-work{
+ color:#fff;
+    text-decoration:none;
+}
+
+.icon-work{
+   font-size:40px; 
+   font-weight:200; 
+   color:#2BE7E8;
+}
+
+.current{
+   color:#fff;
+   text-decoration: none;
+}
+
+.current2{
+    color:#2BE7E8;
+    text-decoration: none;
+}
+
+.workouts-list{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap:30px; 
+    flex-wrap:wrap;
+    margin-top:40px; 
+    margin-bottom:80px;
+}
+
+.workouts-items{
+    position:relative;
+    justify-content: center;
+    text-align: center;
+    top:33%;
+    
+}
+
+.workG{
+    justify-content: center;
+    text-align: center;
+    padding-left: 10px;
+    padding-right:10px;
+}
+
+.custom-btn2 {
+    width: 390px;
+    min-width:370;
+   height: 100px;
+   color:  #fff;
+   border-radius: 5px;
+  display:flex;
+  flex-direction:row;
+ font-size:20px;
+   background: #e0e0e0;
+   cursor: pointer;
+   transition: all 0.3s ease;
+   
+   
+
+   box-shadow: inset 2px 2px 2px 0px rgba(255,255,255,.5),
+     7px 7px 20px 0px rgba(0,0,0,.1),
+     4px 4px 5px 0px rgba(0,0,0,.1);
+   outline: none;
+  
+  }
+  
+  .btn-2 {
+   background:#2E3562;
+ 
+   border: none;
+  }
+  
+  .btn-2:hover {
+   background: #a4a4a4;
+   background: linear-gradient(0deg,   #a4a4a4 0%,  #e1dddd 100%);
+   color:#252525;
+  }
+

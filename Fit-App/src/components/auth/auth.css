@@ -1,0 +1,76 @@
+.general-auth{
+  justify-content: center;
+  text-align: center;
+}
+
+.background-auth{
+  background-color:#1F233E;
+  width:100%;
+  min-height:100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  color:#fff;
+}
+
+.input1{
+width:358px;
+height: 44px;
+border: 1.5px solid black;
+border-radius: 20px;
+font-size: 16px;
+background-color: rgb(46, 53, 98);
+justify-content:center;
+}
+
+input::placeholder{
+ font-size:15px;
+ font-weight:100;
+ padding-left:10px;
+}
+
+.label1-auth{
+  text-align:left;
+  font-size: 20px;
+  font-weight: 200;
+}
+
+.card-auth{
+max-width:360px;
+margin: 0 auto;
+}
+
+.link-singup{
+ color:#2BE7E8; 
+ margin-left:10px; 
+ text-decoration:none;
+}
+.img-auth{
+  height:60px;
+  width:60px;
+}
+
+.img-auth1{
+  height:150px; 
+}
+
+
+.logos{
+  display:flex;
+  text-align:center;
+  justify-content: center;
+  flex-wrap:wrap;
+  gap:20px;
+}
+
+.sep{
+margin-top:-10px;
+  font-size:60px;
+  font-weight:100;
+}
+
+
+.btn-auth{
+  background:transparent;
+  border:none;
+}

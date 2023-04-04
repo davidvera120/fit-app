@@ -1,0 +1,221 @@
+{
+    "ejercicios": [
+      {
+        "id": 1,
+        "video": "https://res.cloudinary.com/dw32expwa/video/upload/v1659580855/Videos-sprint-3/Total_Body_1_lvpnsv.mp4",
+        "nombre":"Circuito de entrenamiento de fuerza cuerpo. Full body workout",
+        "descripcion": "Circuito de entrenamiento de fuerza de brazos, piernas, glúteos y core para tonificar todo el cuerpo. Uno de los workouts de fuerza perteneciente al Plan Inspirafit con el que ponerte en forma en 10 semanas.",
+        "duracion": "9:22",
+        "img": "https://res.cloudinary.com/dw32expwa/image/upload/v1659580225/Videos-sprint-3/Full-Body-3_rhqevv.jpg",
+        "categoria": "Body"
+      },
+      {
+        "id": 2,
+        "video": "https://res.cloudinary.com/dw32expwa/video/upload/v1659581086/Videos-sprint-3/TotalBody_2_pasckj.mp4",
+        "nombre":"Entrenamiento Total BODY | Tonificar todo el cuerpo",
+        "descripcion": " Prueba el entrenamiento de alta intensidad para todo el cuerpo donde cada movimiento se sincroniza con un ritmo",
+        "duracion": "10:19",
+        "img": "https://res.cloudinary.com/dw32expwa/image/upload/v1659580219/Videos-sprint-3/full_body_3_euaq6d.jpg",
+        "categoria": "Body"
+      },
+      {
+        "id": 3,
+        "video": "https://res.cloudinary.com/dw32expwa/video/upload/v1659581446/Videos-sprint-3/Total_Body_3_s4sgtc.mp4",
+        "nombre":"Entrenamiento en casa - FULL BODY (Nivel 1)",
+        "descripcion": "Esta es la rutina de cuerpo completo B, la cual la pueden alternar con la A para así tener un programa de entrenamiento completo",
+        "duracion": "5:31",
+        "img": "https://res.cloudinary.com/dw32expwa/image/upload/v1659580212/Videos-sprint-3/full_body_2_gam2rp.jpg",
+        "categoria": "Body"
+      },
+      {
+        "id": 4,
+        "video": "https://res.cloudinary.com/dw32expwa/video/upload/v1659582064/Videos-sprint-3/Total_Body_4_bbz3sk.mp4",
+        "nombre":"Rutina de Cuerpo Completo (B) Full Body",
+        "descripcion": "Esta es la rutina de cuerpo completo B, la cual la pueden alternar con la A para así tener un programa de entrenamiento completo",
+        "duracion": "6:15",
+        "img": "https://res.cloudinary.com/dw32expwa/image/upload/v1659580207/Videos-sprint-3/full_body_1_i21dot.jpg",
+        "categoria": "Body"
+      },
+   
+      {
+        "id": 5,
+        "video": "https://res.cloudinary.com/dw32expwa/video/upload/v1659582880/Videos-sprint-3/Tricep_1_k3umvq.mp4",
+        "nombre":"Los mejores 11 ejercicios para triceps con mancuernas",
+        "descripcion": "Como ya lo sabes los tríceps ocupa las 2/3 partes del tamaño de tus brazos así que si quieres lucir unos buenos brazos es fundamental que des muchísima atención a tus entrenamientos de tríceps!",
+        "duracion": "6:34",
+        "img": "https://res.cloudinary.com/dw32expwa/image/upload/v1659582672/Videos-sprint-3/Triceps_1_mwi6pa.jpg",
+        "categoria": "Triceps"
+      },
+      {
+        "id": 6,
+        "video": "https://res.cloudinary.com/dw32expwa/video/upload/v1659583162/Videos-sprint-3/Tricep_2_j3uxmk.mp4",
+        "nombre":"Entrenamiento Total BODY | Tonificar todo el cuerpo",
+        "descripcion": " Prueba el entrenamiento de alta intensidad para todo el cuerpo donde cada movimiento se sincroniza con un ritmo",
+        "duracion": "6:37",
+        "img": "https://res.cloudinary.com/dw32expwa/image/upload/v1659582672/Videos-sprint-3/Tricep_2_ulofsq.jpg",
+        "categoria": "Triceps"
+      },
+      {
+        "id": 7,
+        "video": "https://res.cloudinary.com/dw32expwa/video/upload/v1659583450/Videos-sprint-3/Tricep_3_pst6rw.mp4",
+        "nombre":"Rutina de ejercicios de tríceps",
+        "descripcion": "Unos ejercicios de gimnasia muy fáciles para trabajar los hombros.Podéis hacer los ejercicios mirando el vídeo 3 o 4 días a la semana",
+        "duracion": "5:31",
+        "img": "https://res.cloudinary.com/dw32expwa/image/upload/v1659582673/Videos-sprint-3/Tricep_3_l3omh0.jpg",
+        "categoria": "Triceps"
+      },
+      {
+        "id": 8,
+        "video": "https://res.cloudinary.com/dw32expwa/video/upload/v1659583689/Videos-sprint-3/Tricep_4_t8zmi4.mp4",
+        "nombre":"Los mejores ejercicios de triceps demusculación en el GYM",
+        "descripcion": "Para obtener tríceps más grandes debes de asegurarte que haces los ejercicios para tríceps correctos que trabajan cada una de las tres cabezas del musculo en tu rutina.",
+        "duracion": "10:00",
+        "img": "https://res.cloudinary.com/dw32expwa/image/upload/v1659582672/Videos-sprint-3/Trice_4_vqr9my.jpg",
+        "categoria": "Triceps"
+      },
+      {
+        "id": 9,
+        "video": "https://res.cloudinary.com/dw32expwa/video/upload/v1659584466/Videos-sprint-3/Bicep_1_nvu2pq.mp4",
+        "nombre":"6 mejores ejercicios para biceps ¡No te los Pierdas!",
+        "descripcion": "Cuando se trata de elegir los mejores ejercicios para bíceps, necesitamos revisar cuáles cumplen la función de los bíceps de mejor forma",
+        "duracion": "9:26",
+        "img": "https://res.cloudinary.com/dw32expwa/image/upload/v1659584260/Videos-sprint-3/biceps_1_zql5k6.jpg",
+        "categoria": "Biceps"
+      },
+      {
+        "id": 10,
+        "video": "https://res.cloudinary.com/dw32expwa/video/upload/v1659584663/Videos-sprint-3/Biceps_2_vdrzh3.mp4",
+        "nombre":" Los mejores ejercicios de biceps de musculación en el Gimnasio.",
+        "descripcion": " Los Mejores  Ejercicios de Musculación de Biceps en el Gimnasio para hacer crecer los BICEPS, y tener unos BICEPS fuertes, marcados y definidos. ",
+        "duracion": "6:44",
+        "img": "https://res.cloudinary.com/dw32expwa/image/upload/v1659584260/Videos-sprint-3/biceps_2_xi11wc.jpg",
+        "categoria": "Biceps"
+      },
+      {
+        "id": 11,
+        "video": "https://res.cloudinary.com/dw32expwa/video/upload/v1659584867/Videos-sprint-3/Bicep_3_sdf7tc.mp4",
+        "nombre":"Los mejores ejercicios para biceps con mancuernas",
+        "descripcion": "Hoy te vamos a enseñar paso a paso 15 ejercicios excelentes para desarrollar bíceps, así que si sólo cuentas con mancuernas para entrenar NO HAY EXCUSAS, ahora tendrás una gran variedad de ejercicios para que tus entrenamientos sean efectivos y no te aburras haciendo lo mismo una y otra vez!",
+        "duracion": "9:39",
+        "img": "https://res.cloudinary.com/dw32expwa/image/upload/v1659584260/Videos-sprint-3/biceps_3_tnqmbz.jpg",
+        "categoria": "Biceps"
+      },
+      {
+        "id": 12,
+        "video": "https://res.cloudinary.com/dw32expwa/video/upload/v1659585119/Videos-sprint-3/Biceps_4_ynnvjt.mp4",
+        "nombre":"Rutina de biceps grandes - Ejercicios para Bíceps",
+        "descripcion": " En este vídeo vamos a hacer la rutina de biceps grandes en casa.Amigos, tienen que repetir toda la rutina que les voy a mostrar y les prometo que van a tener el bíceps más grande de que su cabeza.",
+        "duracion": "7:31",
+        "img": "https://res.cloudinary.com/dw32expwa/image/upload/v1659584260/Videos-sprint-3/biceps_4_hsalkp.jpg",
+        "categoria": "Biceps"
+      },
+      {
+        "id": 13,
+        "video": "https://res.cloudinary.com/dw32expwa/video/upload/v1659627291/Videos-sprint-3/pecho_1_hxzjus.mp4",
+        "nombre":"Los Mejores Ejercicios de Musculación con Máquinas en Gimnasio",
+        "descripcion": "En este video encontrareis los mejores ejercicios de Pecho (Pectorales) para desarrollar vuestro pectoral al máximo, explicados técnicamente junto a sus variantes técnicas, de forma que conozcais los mejores ejercicios para fortalecer vuestros pectorales.",
+        "duracion": "7:21",
+        "img": "https://res.cloudinary.com/dw32expwa/image/upload/v1659626185/Videos-sprint-3/pecho-1_ixtexp.jpg",
+        "categoria": "Breast"
+      },
+      {
+        "id": 14,
+        "video": "https://res.cloudinary.com/dw32expwa/video/upload/v1659627292/Videos-sprint-3/pecho_2_oqnzbq.mp4",
+        "nombre":"Los únicos 3 ejercicios para Ppcho que necesitas ¡PECTORALES ESCULPIDOS! ",
+        "descripcion": " Si quieres un pecho esculpido, en este video se muestran los únicos 3 ejercicios para el pecho que necesitas.",
+        "duracion": "8:40",
+        "img": "https://res.cloudinary.com/dw32expwa/image/upload/v1659626185/Videos-sprint-3/pecho_4_y78azb.png",
+        "categoria": "Breast"
+      },
+      {
+        "id": 15,
+        "video": "https://res.cloudinary.com/dw32expwa/video/upload/v1659627285/Videos-sprint-3/pecho_3_otfak8.mp4",
+        "nombre":"Ejercicios para pecho - Rutina de pecho  en casa",
+        "descripcion": "Que levante la mano quien quiera darle caña a esta súper rutina de pecho y brazos! Hoy os dejo este entrenamiento exprés para que lo hagáis en esos momentos en los que no tenéis mucho tiempo pero aun así queréis darle caña",
+        "duracion": "5:30",
+        "img": "https://res.cloudinary.com/dw32expwa/image/upload/v1659626185/Videos-sprint-3/pecho_3l_sfot0m.jpg",
+        "categoria": "Breast"
+      },
+      {
+        "id": 16,
+        "video": "https://res.cloudinary.com/dw32expwa/video/upload/v1659627287/Videos-sprint-3/pecho4_jtsjoo.mp4",
+        "nombre":"Entrenamiento para pectorales",
+        "descripcion": "Te presento una combinación de los mejores ejercicios de pecho para fortalecer tus músculos de pectorales en tu casa . Ejercicios con mancuernas y con tu propio peso para definirte y sacarle lumbre al pecho",
+        "duracion": "8:32",
+        "img": "https://res.cloudinary.com/dw32expwa/image/upload/v1659626185/Videos-sprint-3/pecho_2_fsvozb.jpg",
+        "categoria": "Breast"
+      },
+      {
+        "id": 17,
+        "video": "https://res.cloudinary.com/dw32expwa/video/upload/v1659628752/Videos-sprint-3/espalda_1_ejj62d.mp4",
+        "nombre":"Rutina de espalda en casa sin pesas",
+        "descripcion": "Esta es una sencilla y fácil rutina de ejercicios Y estiramientos para mejorar los problemas Y dolores de espalda además de mantener tu columna flexible y elástica.",
+        "duracion": "8:58",
+        "img": "https://res.cloudinary.com/dw32expwa/image/upload/v1659628545/Videos-sprint-3/espalda_1_jwpbzj.jpg",
+        "categoria": "Back"
+      },
+      {
+        "id": 18,
+        "video": "https://res.cloudinary.com/dw32expwa/video/upload/v1659629101/Videos-sprint-3/espalda_2_xyjgfv.mp4",
+        "nombre":"Guía musculación espalda con mancuernas",
+        "descripcion": "Los mejores ejercicios para fortalecer la Espalda con Mancuernas con estos ejercicios con pesas para hacer en casa.",
+        "duracion": "5:14",
+        "img": "https://res.cloudinary.com/dw32expwa/image/upload/v1659628545/Videos-sprint-3/espalda_3_sec4c2.jpg",
+        "categoria": "Back"
+      },
+      {
+        "id": 19,
+        "video": "https://res.cloudinary.com/dw32expwa/video/upload/v1659629410/Videos-sprint-3/espalda_3_lmjlhd.mp4",
+        "nombre":"Espalda bonita con ejercicios de gomas",
+        "descripcion": "Hoy os traigo un vídeo con una rutina de ejercicios con gomas elásticas ideal para la espalda. Además trabajaremos los brazos y el pecho.",
+        "duracion": "10:57",
+        "img": "https://res.cloudinary.com/dw32expwa/image/upload/v1659628544/Videos-sprint-3/espalda_2_ed6l8o.jpg",
+        "categoria": "Back"
+      },
+      {
+        "id": 20,
+        "video": "https://res.cloudinary.com/dw32expwa/video/upload/v1659629620/Videos-sprint-3/espalda_4_gkhj8h.mp4",
+        "nombre":"Rutina de ejercicios para espalda y hombros",
+        "descripcion": " Les comparto una nueva rutina de ejercicios para espalda y hombros en 8 minutos que puedes aplicar en tu entrenamieto. ",
+        "duracion": "6:30",
+        "img": "https://res.cloudinary.com/dw32expwa/image/upload/v1659628544/Videos-sprint-3/espalda_4_at9rfh.jpg",
+        "categoria": "Back"
+      },
+      {
+        "id": 21,
+        "video": "https://res.cloudinary.com/dw32expwa/video/upload/v1659630721/Videos-sprint-3/piernas_3_wsgzzu.mp4",
+        "nombre":"Los mejores ejercicios para piernas con marcuernas",
+        "descripcion": "ahora tendrás una gran variedad de ejercicios para que tus entrenamientos sean efectivos y no te aburras haciendo lo mismo una y otra vez!",
+        "duracion": "5:15",
+        "img": "https://res.cloudinary.com/dw32expwa/image/upload/v1659630003/Videos-sprint-3/piernas_1_inyki1.jpg",
+        "categoria": "Legs"
+      },
+      {
+        "id": 22,
+        "video": "https://res.cloudinary.com/dw32expwa/video/upload/v1659630916/Videos-sprint-3/piernas_4_rrvzic.mp4",
+        "nombre":"Entrenamiento rápido de piernas | Tonificar piernas",
+        "descripcion": "Lo bueno es que estos ejercicios los hago en casa, porque que pena que me vea la gente y piense que me está dando un infarto",
+        "duracion": "10:30",
+        "img": "https://res.cloudinary.com/dw32expwa/image/upload/v1659630004/Videos-sprint-3/piernas_2_x143pu.jpg",
+        "categoria": "Legs"
+      },
+      {
+        "id": 23,
+        "video": "https://res.cloudinary.com/dw32expwa/video/upload/v1659630258/Videos-sprint-3/piernas_1_nmtwja.mp4",
+        "nombre":"¡Los 3 mejores ejercicios para piernas!",
+        "descripcion": "Ejercicios para glúteos y piernas en casa - Rutina 15 minutos",
+        "duracion": "7:55",
+        "img": "https://res.cloudinary.com/dw32expwa/image/upload/v1659630004/Videos-sprint-3/piernas_3_wniok4.jpg",
+        "categoria": "Legs"
+      },
+      {
+        "id": 24,
+        "video": "https://res.cloudinary.com/dw32expwa/video/upload/v1659630552/Videos-sprint-3/piernas_2_wrl0xk.mp4",
+        "nombre":"Rutina de piernas en casa",
+        "descripcion": "Hoy te vamos a enseñar paso a paso 12 ejercicios excelentes para desarrollar piernas, así que si sólo cuentas con mancuernas para entrenar NO HAY EXCUSAS",
+        "duracion": "7:26",
+        "img": "https://res.cloudinary.com/dw32expwa/image/upload/v1659630004/Videos-sprint-3/piernas_4_c6yeyp.jpg",
+        "categoria": "Legs"
+      }
+    ]
+  }

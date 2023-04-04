@@ -1,0 +1,100 @@
+
+.pages-list{
+    margin-top:50px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    gap:20px; 
+    flex-wrap:wrap;
+}
+
+.background{
+    background-color:#1F233E;
+    width:100%;
+    min-height:100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.profile{
+    width: 100%;
+    min-height: 100vh;
+    background-image: radial-gradient(circle, rgba(255,255,255,0) 0%, rgba(31,35,62,1) 45%), url(https://res.cloudinary.com/doshr4fpd/image/upload/v1671498963/workouts/fondos/fondo3_bwbni7.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    position:absolute;
+}
+
+.fondo1{
+    width: 100%;
+    min-height: 100vh;
+    background-image: radial-gradient(circle, rgba(255,255,255,0) 0%, rgba(31,35,62,1) 45%), url(https://res.cloudinary.com/doshr4fpd/image/upload/v1671498963/workouts/fondos/fondo3_bwbni7.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+
+
+.titulo{
+    display:flex;
+    background: rgba(255, 255, 255, 0.25);
+    backdrop-filter: blur( 0.5px );
+    -webkit-backdrop-filter: blur( 0.5px );
+    text-align: center;
+    justify-content:center;
+    height:50px;
+    color:#fff;
+    padding-top:10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+    border-bottom: 2px solid #2BE7E8;
+    }
+
+    .img-cover{
+        height:100%; 
+        width:100%;
+        object-fit:cover;
+    }
+
+    .titulo-cover{
+        text-align:center;
+        justify-content:center;
+        margin-top:20px;
+        color:#1F233E; 
+        font-weight:600;
+        margin-left:-25px;
+    }
+
+    @media (max-width: 500px) {
+
+        .profile{
+            width: 100%;
+            min-height: 100vh;
+            background-color:#1F233E;
+            background-image: radial-gradient(circle, rgba(255,255,255,0) 0%, rgba(31,35,62,1) 45%), url(https://res.cloudinary.com/doshr4fpd/image/upload/v1671484672/workouts/fondos/fondoworkouts_maeiuv.jpg);
+            background-size: 400px 100vh;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+    }
+
+
+        .fondo1{
+       
+            width: 100%;
+            min-height: 100vh;
+            background-color: #1F233E;
+            background-image: radial-gradient(circle, rgba(255,255,255,0) 0%, rgba(31,35,62,1) 45%), url(https://res.cloudinary.com/doshr4fpd/image/upload/v1671498963/workouts/fondos/fondo3_bwbni7.jpg);
+            background-size: 400px 60vh;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+          
+            
+        } 
+    
+    }

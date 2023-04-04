@@ -1,0 +1,410 @@
+* {
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    
+     margin:0;
+     padding:0;
+     box-sizing: border-box;
+  }
+
+
+
+  .ground{ 
+  
+background-color:#1F233E;
+  } 
+ul, li{
+  background:none;
+}
+
+ 
+
+
+
+
+.input4{
+ margin-top:-45px; 
+ font-size:13px;
+ width:35px;
+}
+
+
+
+ 
+
+Link {
+  background:none;
+  text-decoration:none;
+}
+
+
+  
+img {
+  text-align: center;
+
+}
+
+  .navbar-custom{
+    width: 100%;
+   
+   height: 30px;
+   margin-bottom: 10px;
+  text-align: center;
+  justify-content: center;
+}
+
+.navbar-custom{
+  width: 100%;
+ 
+ height: 33px;
+ margin-bottom: 10px;
+text-align: center;
+justify-content: center;
+
+}
+
+.navbar-custom .navbar-nav-custom{
+  width: 100%;
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+
+}
+
+.navbar-custom .navbar-nav-custom > li{
+ 
+  height: 50px;
+ 
+}
+
+.navlink {
+  background:none; 
+  text-decoration:none;
+}
+
+
+h5, h1, h2, h3, i, p, span, h4, button, h6{
+background: none;
+}
+
+.slider__contenedor {
+height:150px;
+width: 390px;
+border-radius: 15px;
+/* border: 1px solid #fff; */
+background-color: #2E3562;
+ display: flex;
+  overflow: hidden;
+  margin-bottom: 0px;
+  margin-top: 100px;
+  text-align: center;
+  justify-content: center;
+  flex-direction: row;
+}
+
+.slider {
+  height: 180px;
+  width: 380px;
+  border: 1px solid black;
+  text-align: center;
+  flex-direction: row;
+  background-color:#2E3562;
+}
+.slider__btn {
+
+  width: 40px;
+  height: 40px;
+  border: none;
+  background:none;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: monospace;
+  text-align: center;
+  cursor: pointer;
+}
+
+.slider__btn--right {
+  right: 0px;
+} 
+
+.slider__btn--left {
+  left: 0px;
+} 
+
+.slider__section {
+width: 100%;
+text-align: center;
+background-color:#2E3562;
+margin:20px;
+}
+
+.imgPortada{
+
+  height:120px;
+}
+
+.titulo{
+background: rgba(255, 255, 255, 0.25);
+backdrop-filter: blur( 0.5px );
+-webkit-backdrop-filter: blur( 0.5px );
+
+gap:15px;
+text-align: center;
+justify-content:center;
+align-items:center;
+
+
+height:50px;
+border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+
+
+
+
+
+/* From uiverse.io by @satyamchaudharydev */
+.loader {
+  --height-of-loader: 4px;
+  --loader-color: #0071e2;
+  width: 60%;
+  height: var(--height-of-loader);
+  border-radius: 30px;
+  background-color: rgba(0,0,0,0.2);
+  position: relative;
+ }
+ 
+ .loader::before {
+  content: "";
+  position: absolute;
+  background: var(--loader-color);
+  top: 0;
+  left: 0;
+  width: 0%;
+  height: 100%;
+  border-radius: 30px;
+  animation: moving 1s ease-in-out infinite;
+  ;
+ }
+ 
+ @keyframes moving {
+  50% {
+   width: 100%;
+  }
+ 
+  100% {
+   width: 0;
+   right: 0;
+   left: unset;
+  }
+ }
+
+/*loading*/
+.spinner {
+  --clr: #2BE7E8;
+  --gap: 6px;
+    /* gap between each circle */
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: var(--gap);
+  position:absolute;
+background: none;
+ }
+ 
+ .spinner span {
+  width: 20px;
+  height: 20px;
+  border-radius: 100%;
+  background-color: var(--clr);
+  opacity: 0;
+ position:relative;
+ }
+ 
+ .spinner span:nth-child(1) {
+  animation: fade 1s ease-in-out infinite;
+ }
+ 
+ .spinner span:nth-child(2) {
+  animation: fade 1s ease-in-out 0.33s infinite;
+ }
+ 
+ .spinner span:nth-child(3) {
+  animation: fade 1s ease-in-out 0.66s infinite;
+ }
+ 
+ @keyframes fade {
+  0%, 100% {
+   opacity: 1;
+  }
+ 
+  60% {
+   opacity: 0;
+  }
+ }
+ 
+input[type=file]{
+  display:none;
+}
+
+.label1{
+  color:#1F233E;
+  background: #2BE7E8;
+  padding: 5px 10px;
+  font-size:18px;
+border-radius: 5px;
+gap:5px;
+justify-content: center;
+display: flex;
+cursor:pointer;
+border: 1px solid #B0C3FD
+}
+
+.label1:hover{
+  background: #12b8b8;
+  box-shadow: 0 0 10px #2BE7E8, 0 0 25px #001eff, 0 0 50px #2BE7E8;
+}
+
+.general1{
+align-items:center;
+text-align:center;
+justify-content:center;
+}
+
+.upload1{
+
+  color:#1F233E; 
+  font-size:25px; 
+  margin-right:5px; 
+  margin-top:6px;
+}
+
+.upload2{
+color:#1F233E; 
+font-size:20px; 
+margin-right:5px; 
+margin-top:5px;
+}
+
+/* From uiverse.io by @mrhyddenn */
+.progress-loader {
+  top: 50%;
+  left: 50%;
+position:relative;
+  transform: translate(-50%, -50%);
+}
+
+.progress-loader {
+  width: 150px;
+  background: rgba(236, 236, 238, 0.253);
+  height: 3px;
+  border-radius: 7px;
+}
+
+.progress {
+  content: '';
+  width: 1px;
+  height: 3px;
+  border-radius: 7px;
+  background: rgb(255, 255, 255);
+  transition: 0.5s;
+  animation: loading1274 2s ease infinite;
+}
+
+@keyframes loading1274 {
+  0% {
+    width: 0%;
+  }
+
+  10% {
+    width: 10%;
+  }
+
+  50% {
+    width: 40%;
+  }
+
+  60% {
+    width: 60%;
+  }
+
+  100% {
+    width: 100%;
+  }
+}
+.custom-btn {
+  width: 320px;
+  height: 40px;
+  color:#1F233E;
+  border-radius: 5px;
+  
+margin-top:50px;
+font-size:22px;
+  background:#e0e0e0;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  text-align: center;
+  justify-content: center;
+  display: inline-block;
+  box-shadow: inset 2px 2px 2px 0px rgba(255,255,255,.5),
+    7px 7px 20px 0px rgba(0,0,0,.1),
+    4px 4px 5px 0px rgba(0,0,0,.1);
+  outline: none;
+ }
+ 
+ .btn-1 {
+  background:  #12b8b8;
+  background: linear-gradient(0deg,  #12b8b8 0%,  #00ffff 100%);
+  border: none;
+ }
+ 
+ .btn-1:hover {
+  background:  #12b8b8;
+  background: linear-gradient(0deg,  #12b8b8 0%,  #08a7a7 100%);
+ }
+
+
+
+
+ .custom-btn3 {
+  width: 100px;
+  height: 25px;
+  color:#1F233E;
+  border-radius: 5px;
+ margin-left:-5px;
+
+font-size:13px;
+  background:#e0e0e0;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  text-align: center;
+  justify-content: center;
+  display: inline-block;
+  box-shadow: inset 2px 2px 2px 0px rgba(255,255,255,.5),
+    7px 7px 20px 0px rgba(0,0,0,.1),
+    4px 4px 5px 0px rgba(0,0,0,.1);
+  outline: none;
+ }
+ 
+ .btn-3 {
+  background:  #12b8b8;
+  background: linear-gradient(0deg,  #12b8b8 0%,  #00ffff 100%);
+  border: none;
+ }
+ 
+ .btn-3:hover {
+  background:  #12b8b8;
+  background: linear-gradient(0deg,  #12b8b8 0%,  #08a7a7 100%);
+ }
+
+
+
